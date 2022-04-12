@@ -3,3 +3,4 @@ malware
 virus
 adware
 dns
+botnet
