@@ -1,6 +1,0 @@
-spyware
-malware
-virus
-adware
-dns
-botnet
